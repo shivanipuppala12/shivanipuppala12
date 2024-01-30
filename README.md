@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shivanipuppala12
-- 🌱 Engineering
+- 👋 Hi, I’m shivanipuppala
+- 🌱  studying-: Engineering
   
 
 <!---
